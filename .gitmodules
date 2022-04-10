@@ -1,0 +1,3 @@
+[submodule "Cobra/vendor/spdlog"]
+	path = Cobra/vendor/spdlog
+	url = https://github.com/gabime/spdlog
